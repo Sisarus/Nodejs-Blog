@@ -1,12 +1,14 @@
 # Nodejs Blog
 
 ## Install
+
 ```
 npm init
-npm i express body-parser
+npm install
 ```
 
 ## Run
+
 ```
 nodemon app.js
 ```
